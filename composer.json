@@ -37,7 +37,8 @@
         "symfony/console": "^4.4 || ^5.1",
         "symfony/dependency-injection": "^4.4 || ^5.1",
         "symfony/framework-bundle": "^4.4 || ^5.1",
-        "symfony/property-access": "^4.4 || ^5.1"
+        "symfony/property-access": "^4.4 || ^5.1",
+        "elasticsearch/elasticsearch": "^6.8"
     },
     "require-dev": {
         "doctrine/doctrine-bundle": "^2.1.1",
